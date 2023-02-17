@@ -1,3 +1,6 @@
-# Sablon
+# exberles
 
-Sablon fájl a projekt leírására.
+Béla lakást bérel Maritól.
+
+* Mi Mari jogviszonya?
+* Mi a jogviszonya Bélának?
